@@ -33,7 +33,7 @@
   "bugs": {
     "url": "https://github.com/jh3y/react-waves/issues"
   },
-  "homepage": "https://github.com/jh3y/react-waves#readme",
+  "homepage": "https://react-waves.vercel.app",
   "devDependencies": {
     "@babel/core": "^7.12.3",
     "@babel/preset-env": "^7.12.1",
